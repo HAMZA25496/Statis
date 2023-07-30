@@ -1,4 +1,4 @@
-# first_company_project
+# project 
 
 A new Flutter project.
 
